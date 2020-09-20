@@ -1,0 +1,2 @@
+2020-09-07 11:02:02,924, :INFO, : pyTest.test_baseClass1 : Rahul
+2020-09-07 11:02:58,106, :INFO, : pyTest.test_baseClass1 : ['Rahul', 'Shetty', 'Email@rahul.sheety']

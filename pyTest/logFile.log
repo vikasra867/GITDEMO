@@ -1,0 +1,23 @@
+2020-09-06 14:49:57,068, :INFO, : pyTest.test_Logging : I am Information only
+2020-09-06 14:49:57,068, :WARNING, : pyTest.test_Logging : warning
+2020-09-06 14:49:57,069, :ERROR, : pyTest.test_Logging : Error
+2020-09-06 14:49:57,069, :CRITICAL, : pyTest.test_Logging : Critical
+2020-09-06 15:18:07,585, :INFO, : pyTest.test_Logging : I am Information only
+2020-09-06 15:18:07,586, :WARNING, : pyTest.test_Logging : warning
+2020-09-06 15:18:07,586, :ERROR, : pyTest.test_Logging : Error
+2020-09-06 15:18:07,586, :CRITICAL, : pyTest.test_Logging : Critical
+2020-09-06 15:40:23,067, :INFO, : pyTest.test_Logging : I am Information only
+2020-09-06 15:40:23,067, :WARNING, : pyTest.test_Logging : warning
+2020-09-06 15:40:23,068, :ERROR, : pyTest.test_Logging : Error
+2020-09-06 15:40:23,069, :CRITICAL, : pyTest.test_Logging : Critical
+2020-09-06 15:46:05,786, :INFO, : pyTest.test_baseClass1 : Rahul
+2020-09-06 15:58:43,083, :INFO, : pyTest.test_Logging : I am Information only
+2020-09-06 15:58:43,083, :WARNING, : pyTest.test_Logging : warning
+2020-09-06 15:58:43,083, :ERROR, : pyTest.test_Logging : Error
+2020-09-06 15:58:43,083, :CRITICAL, : pyTest.test_Logging : Critical
+2020-09-07 10:56:49,342, :INFO, : pyTest.test_baseClass1 : ['Rahul', 'Shetty', 'Email@rahul.sheety']
+2020-09-07 10:57:01,703, :INFO, : pyTest.test_baseClass1 : ['Rahul', 'Shetty', 'Email@rahul.sheety']
+2020-09-07 10:58:01,677, :INFO, : pyTest.test_baseClass1 : ['Rahul', 'Shetty', 'Email@rahul.sheety']
+2020-09-07 11:00:29,575, :INFO, : pyTest.test_baseClass1 : ['Rahul', 'Shetty', 'Email@rahul.sheety']
+2020-09-07 11:00:49,030, :INFO, : pyTest.test_baseClass1 : ['Rahul', 'Shetty', 'Email@rahul.sheety']
+2020-09-07 11:01:30,966, :INFO, : pyTest.test_baseClass1 : Rahul
